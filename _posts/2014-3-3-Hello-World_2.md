@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hello world post
+title: Under Construction
 ---
 
 block of text 1. now we'll try inserting an image
