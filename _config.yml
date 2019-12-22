@@ -6,7 +6,7 @@
 name: Seb Squire
 
 # Short bio or description (displayed in the header)
-description: Machine Learning Engineer, learning enthusiast
+description: Machine Learning Engineer @ Microgenetics (https://microgenetics.co.uk/) and Learning Enthusiast
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
@@ -21,9 +21,9 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: 
+  github: https://github.com/sebsquire
   instagram:
-  linkedin:
+  linkedin: https://www.linkedin.com/in/sebsquire/
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: 
