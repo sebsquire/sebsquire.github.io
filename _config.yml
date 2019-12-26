@@ -9,7 +9,7 @@ name: Seb Squire
 description: Machine Learning Engineer @ Microgenetics (https://microgenetics.co.uk) and Learning Enthusiast
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: ![_config.yml]({{ site.baseurl }}/images/heaven_jeeOokChoi.jpg)
+avatar:https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
 
 #
 # Flags below are optional
